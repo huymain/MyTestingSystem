@@ -1,0 +1,9 @@
+E:\CMC\Mock\TestingOnline\TestingSystem.DataTranferObject\bin\Debug\TestingSystem.DataTranferObject.dll
+E:\CMC\Mock\TestingOnline\TestingSystem.DataTranferObject\bin\Debug\TestingSystem.DataTranferObject.pdb
+E:\CMC\Mock\TestingOnline\TestingSystem.DataTranferObject\bin\Debug\TestingSystem.Models.dll
+E:\CMC\Mock\TestingOnline\TestingSystem.DataTranferObject\bin\Debug\TestingSystem.Models.pdb
+E:\CMC\Mock\TestingOnline\TestingSystem.DataTranferObject\obj\Debug\TestingSystem.DataTranferObject.csprojAssemblyReference.cache
+E:\CMC\Mock\TestingOnline\TestingSystem.DataTranferObject\obj\Debug\TestingSystem.DataTranferObject.csproj.CoreCompileInputs.cache
+E:\CMC\Mock\TestingOnline\TestingSystem.DataTranferObject\obj\Debug\TestingSystem.DataTranferObject.csproj.CopyComplete
+E:\CMC\Mock\TestingOnline\TestingSystem.DataTranferObject\obj\Debug\TestingSystem.DataTranferObject.dll
+E:\CMC\Mock\TestingOnline\TestingSystem.DataTranferObject\obj\Debug\TestingSystem.DataTranferObject.pdb

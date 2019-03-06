@@ -1,0 +1,5 @@
+E:\CMC\Mock\TestingOnline\TestingSystem.Common\bin\Debug\TestingSystem.Common.dll
+E:\CMC\Mock\TestingOnline\TestingSystem.Common\bin\Debug\TestingSystem.Common.pdb
+E:\CMC\Mock\TestingOnline\TestingSystem.Common\obj\Debug\TestingSystem.Common.csproj.CoreCompileInputs.cache
+E:\CMC\Mock\TestingOnline\TestingSystem.Common\obj\Debug\TestingSystem.Common.dll
+E:\CMC\Mock\TestingOnline\TestingSystem.Common\obj\Debug\TestingSystem.Common.pdb

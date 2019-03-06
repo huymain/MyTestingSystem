@@ -1,0 +1,16 @@
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\bin\Debug\TestingSystem.Sevice.dll
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\bin\Debug\TestingSystem.Sevice.pdb
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\bin\Debug\TestingSystem.Data.dll
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\bin\Debug\TestingSystem.DataTranferObject.dll
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\bin\Debug\TestingSystem.Models.dll
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\bin\Debug\EntityFramework.dll
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\bin\Debug\TestingSystem.DataTranferObject.pdb
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\bin\Debug\TestingSystem.Data.pdb
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\bin\Debug\TestingSystem.Data.dll.config
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\bin\Debug\TestingSystem.Models.pdb
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\bin\Debug\EntityFramework.xml
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\obj\Debug\TestingSystem.Sevice.csprojAssemblyReference.cache
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\obj\Debug\TestingSystem.Sevice.csproj.CoreCompileInputs.cache
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\obj\Debug\TestingSystem.Sevice.csproj.CopyComplete
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\obj\Debug\TestingSystem.Sevice.dll
+E:\CMC\Mock\TestingOnline\TestingSystem.Sevice\obj\Debug\TestingSystem.Sevice.pdb
